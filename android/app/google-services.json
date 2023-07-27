@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "750121020476",
+    "project_id": "accidenttracker-4c5eb",
+    "storage_bucket": "accidenttracker-4c5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750121020476:android:7b9c17c856d060031fe739",
+        "android_client_info": {
+          "package_name": "com.example.accident_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750121020476-gu28p10sksopq7kqe644fifed5fj3joi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP6YGKwG99eZzTu_VWhl1_hHdqpyUAEIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750121020476-gu28p10sksopq7kqe644fifed5fj3joi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750121020476:android:3c6ca7370106bfac1fe739",
+        "android_client_info": {
+          "package_name": "com.example.acciendent_alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750121020476-gu28p10sksopq7kqe644fifed5fj3joi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP6YGKwG99eZzTu_VWhl1_hHdqpyUAEIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750121020476-gu28p10sksopq7kqe644fifed5fj3joi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
